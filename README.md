@@ -1,7 +1,7 @@
 <div align=center>
 
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70.&descAlignY=44)
-INTRODUCTION
+INTRODUCTION  
    안녕하세요!  
    개발자가 되고싶은 최우종입니다!!👋👋👋  
    현재는 한화시스템 Beyond SW 캠프_14기에서 막 배우기 시작했어요!  
